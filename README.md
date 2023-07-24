@@ -1,1 +1,1 @@
-backend javascript
+Javascript basic Es6
